@@ -1,4 +1,33 @@
 p{
-    color: darkgreen;
-    background-color: red;
+    color: rgb(31, 32, 31);
+    text-align: center;
+    font-size: 25px;
+
+}
+img{
+border: 10px solid yellow;
+width: 40%;
+margin-left: 27%;
+}
+li{
+    display: inline;
+}
+h3{
+    text-align: center;
+    background-color: tomato;
+    border: 5px solid royalblue;
+    width: 200px;
+    padding: 10px;
+    margin-left: 790px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(234, 241, 248);
+    background-color: slategrey;
+    padding: 20px 0px;
+    width: 700px;
+    border: 3px solid tomato;
+    margin-left: 540px;
+    
 }
